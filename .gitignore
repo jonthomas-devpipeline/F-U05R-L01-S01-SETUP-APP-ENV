@@ -1,0 +1,16 @@
+# When creating a react app there are many files that react wants to be ignored. However, many of these files are created by default. It is safe to remove all the files from the .gitignore file that we will not be creating for our app.
+
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
+
